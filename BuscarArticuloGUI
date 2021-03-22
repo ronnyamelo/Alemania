@@ -1,0 +1,25 @@
+/*
+
+
+
+BuscarArticulo GUI
+
+Vista de la Funcionalidad Buscar Articulo
+
+*/
+
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
+import domain.ControladorSesion;
+
+
+public class BuscarArticuloGUI{
+	
+
+	
+
+
+
+
+}
