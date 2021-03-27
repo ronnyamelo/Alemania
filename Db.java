@@ -51,8 +51,8 @@ public class Db{
 		username=user;
 		usernamePassword=pa;
 		
-		String connectionUrl="jdbc:derby://localhost:1527//"+nombreBaseDeDatos+";create=true;bootPassword="+bootPassword+";user="+username+";password="+usernamePassword;
-		//String connectionUrl="jdbc:derby://192.168.1.40:1527//"+nombreBaseDeDatos+";create=true;bootPassword="+bootPassword+";user="+username+";password="+usernamePassword;
+		// String connectionUrl="jdbc:derby://localhost:1527//"+nombreBaseDeDatos+";create=true;bootPassword="+bootPassword+";user="+username+";password="+usernamePassword;
+		String connectionUrl="jdbc:derby://192.168.1.40:1527//"+nombreBaseDeDatos+";create=true;bootPassword="+bootPassword+";user="+username+";password="+usernamePassword;
 		
 		
 		try{
